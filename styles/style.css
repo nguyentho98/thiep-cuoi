@@ -869,3 +869,6 @@ body {
     #ffeaf3
   );
 }
+.hidden {
+  display: none !important;
+}
