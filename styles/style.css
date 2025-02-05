@@ -558,7 +558,7 @@ header .navbar-brand {
 /* couple section */
 .couple-section .wrap-people {
   max-height: fit-content;
-  min-height: 350px;
+  min-height: 480px;
   gap: 20px;
 }
 .couple-section .wrap-people .member-contact li {
